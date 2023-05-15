@@ -36,7 +36,8 @@ python3 manage.py runserver
 
 API:
 http://localhost:8000/api/recipes/
-<img width="1440" alt="Screen Shot 2023-05-15 at 10 15 15 PM" src="https://github.com/Jeremenkovic/RecipeBook/assets/102044657/40efc99f-f354-4da6-81a5-5acc1e4a69b5">
+<img width="1440" alt="Screen Shot 2023-05-16 at 1 35 40 AM" src="https://github.com/Jeremenkovic/RecipeBook/assets/102044657/07fbcd5a-edb1-455f-9bc1-d6fb69ed3390">
 
 http://localhost:8000/api/tags/
-<img width="1440" alt="Screen Shot 2023-05-15 at 10 15 17 PM" src="https://github.com/Jeremenkovic/RecipeBook/assets/102044657/8464c8e6-9a69-46a3-a852-dda26c3b20e8">
+<img width="1440" alt="Screen Shot 2023-05-16 at 1 35 57 AM" src="https://github.com/Jeremenkovic/RecipeBook/assets/102044657/907d481d-96ef-40dd-8a50-9ce6ded760ba">
+
